@@ -5,5 +5,5 @@ This program uses the `turtle` module to draw a simple house with a square base,
 ## How to Run
 
 1. Ensure you have Python installed on your system.
-2. Install the `turtle` module if it's not already installed.
-3. Run the `main.py` script using Python.
+2. Install the `turtle` module if it's not already installed:
+   
